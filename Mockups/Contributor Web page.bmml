@@ -1,0 +1,128 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="955" measuredH="528" mockupW="924" mockupH="508">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="31" y="20" w="924" h="508" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>OuterCurve%20Contributor%20Signup%0Ahttp%3A//contribute.outercurve.org/chronozoom/jaybeavers</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="66" y="95" w="-1" h="-1" measuredW="418" measuredH="113" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/OuterCurveLogo.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="__group__" x="796" y="135" w="144" h="32" measuredW="144" measuredH="32" zOrder="2" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="1" w="-1" h="-1" measuredW="107" measuredH="31" zOrder="0" locked="false" isInGroup="2">
+          <controlProperties>
+            <src>./assets/GithubSignedIn.png</src>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="116" y="0" w="-1" h="-1" measuredW="28" measuredH="32" zOrder="1" locked="false" isInGroup="2">
+          <controlProperties>
+            <src>./assets/GithubSignOut.png</src>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="98" y="358" w="-1" h="-1" measuredW="84" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Email%20Address</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="115" y="379" w="-1" h="-1" measuredW="172" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>jay@hikinghomeschoolers.org</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="531" y="214" w="-1" h="-1" measuredW="110" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Project%20Repository</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="548" y="235" w="-1" h="-1" measuredW="244" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>http%3A//github.com/jaybeavers/chronozoom</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="531" y="270" w="-1" h="-1" measuredW="75" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Pull%20Request</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="555" y="291" w="-1" h="-1" measuredW="301" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>https%3A//github.com/alterm4nn/ChronoZoom/pull/44</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="555" y="312" w="-1" h="-1" measuredW="103" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Remove%20extra%20file</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="98" y="409" w="-1" h="-1" measuredW="355" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Employer%20Email%20Address%20for%20Contributor%20Agreement%20approval</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::TextInput" x="115" y="452" w="258" h="-1" measuredW="43" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>disabled</state>
+        <text>none</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::TextArea" x="555" y="370" w="316" h="62" measuredW="200" measuredH="140" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>disabled</state>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="536" y="342" w="-1" h="-1" measuredW="363" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>optional%20paragraph%20about%20your%20application%20for%20project%20manager</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Link" x="116" y="433" w="-1" h="-1" measuredW="106" measuredH="19" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>more%20information...</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Button" x="476" y="460" w="-1" h="-1" measuredW="71" measuredH="27" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <menuIcon>false</menuIcon>
+        <state>disabled</state>
+        <text>Approve</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Label" x="531" y="141" w="-1" h="-1" measuredW="124" measuredH="21" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Project%3A%20ChronoZoom</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="98" y="217" w="-1" h="-1" measuredW="166" measuredH="127" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%5Bx%5D%20Applied%0A%5Bx%5D%20Administrator%20Approved%0A%5B%20%5D%20Applicant%20Signed%0A-%5B%20%5D%20Employer%20Signed-%0A%5B%20%5D%20OuterCurve%20Signed%0A%5B%20%5D%20Project%20Contributor</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Button" x="633" y="460" w="-1" h="-1" measuredW="153" measuredH="27" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <menuIcon>false</menuIcon>
+        <state>disabled</state>
+        <text>Promote%20Administrator</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Button" x="796" y="460" w="-1" h="-1" measuredW="147" measuredH="27" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <menuIcon>false</menuIcon>
+        <state>disabled</state>
+        <text>Remove%20from%20Project</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Button" x="558" y="460" w="-1" h="-1" measuredW="62" measuredH="27" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <menuIcon>false</menuIcon>
+        <state>disabled</state>
+        <text>Reject</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

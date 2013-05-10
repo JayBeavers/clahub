@@ -1,0 +1,10 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1044" measuredH="744" mockupW="984" mockupH="724">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="60" y="20" w="-1" h="-1" measuredW="984" measuredH="724" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/pullrequest.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

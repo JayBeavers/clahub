@@ -1,0 +1,35 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="836" measuredH="438" mockupW="739" mockupH="400">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="97" y="38" w="739" h="400" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Email%3A%20projectadmin@chronozoom.org</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Tree" x="97" y="61" w="116" h="354" measuredW="300" measuredH="225" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>f%20Calendar%0AF%20Inbox%0Af%20Sent%20Items%0Af%20Junk%20Mail</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::List" x="212" y="62" w="624" h="73" measuredW="100" measuredH="126" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>1</selectedIndex>
+        <text>Helo%20I%20am%20the%20vice%20govenor%20of%20Nigeria%20and%20I%20need%20your%20assistance%20with%20this%20small%20matter...%0ANew%20Contributor%20Request%20for%20OuterCurve%20project%20ChronoZoom%3A%20jay@hikinghomeschoolers.org%0A...</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::TextArea" x="211" y="131" w="625" h="257" measuredW="200" measuredH="140" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>From%3A%20contributors@outercurve.org%0ATo%3A%20projectadmin@chronozoom.org%0ASubject%3A%20New%20Contributor%20Request%20for%20OuterCurve%20project%20ChronoZoom%3A%20jay@hikinghomeschoolers.org%0A%20%0AProject%3A%20ChronoZoom%0A%20%0AEmail%3A%20jay@hikinghomeschoolers.org%0ARepository%3A%20http%3A//github.com/jaybeavers/chronozoom%0APull%20Request%3A%20%22Remove%20extra%20file%22%2C%20https%3A//github.com/alterm4nn/ChronoZoom/pull/44%0A%20%0ATo%20approve%2C%20visit%20the%20applicatant%27s%20page%3A%20http%3A//contribute.outercurve.org/chronozoom/jaybeavers</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="714" y="388" w="-1" h="-1" measuredW="55" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Reply</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="770" y="389" w="-1" h="-1" measuredW="61" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Delete</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

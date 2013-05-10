@@ -1,0 +1,24 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="839" measuredH="508" mockupW="815" mockupH="488">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="24" y="20" w="815" h="488" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Outercurve%20Contributor%20Signup%0Ahttp%3A//contribute.outercurve.org/signup</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="678" y="138" w="-1" h="-1" measuredW="107" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Github%20Sign%20In</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Paragraph" x="47" y="250" w="768" h="80" measuredW="200" measuredH="80" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Thank%20you%20for%20your%20interest%20in%20contributing%20to%20an%20OuterCurve%20project.%0A%20%0ATo%20continue%2C%20please%20sign%20in%20to%20Github%20and%20we%20will%20detect%20which%20OuterCurve%20projects%20you%20have%20forked%20and%20created%20a%20pull%20request.</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Image" x="39" y="95" w="-1" h="-1" measuredW="418" measuredH="113" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/OuterCurveLogo.png</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
