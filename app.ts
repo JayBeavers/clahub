@@ -10,7 +10,7 @@ import path = module('path');
 
 var app = express();
 
-app.configure(function(){
+app.configure( () => {
   app.set('port', '25313');
   app.set('views', __dirname + '/views');
   app.set('view engine', 'jade');
@@ -24,32 +24,32 @@ app.configure(function(){
   app.use(express.static(path.join(__dirname, 'public')));
 });
 
-app.configure('development', function(){
+app.configure('development', () => {
   app.use(express.errorHandler());
 });
 
 app.get('/', routes.index);
 app.get('/users', user.list);
 
-app.get('/login', function(req, res){
+app.get('/login', (req, res) => {
     res.redirect('https://github.com/login/oauth/authorize?client_id=f2982b46651991f435bd');
 });
 
-app.get('/callback', function (req, res) {
+app.get('/callback', (req, res) => {
     console.log(req.query['code']);
 
     var accessTokenPath = '/login/oauth/access_token?client_id=f2982b46651991f435bd&client_secret=8cecb18cee3fc8e632e47f5a6fb9238e82dca798&code=' + req.query['code'];
 
-    var request = https.request({ method: 'POST', hostname: 'github.com', path: accessTokenPath }, function (atRes) {
+    var request = https.request({ method: 'POST', hostname: 'github.com', path: accessTokenPath }, (atRes) => {
 
         var accessToken : string;
 
-        atRes.on('data', function (data) {
+        atRes.on('data', data => {
             accessToken = data.toString();
             req.session.accessToken = accessToken;
         });
 
-        atRes.on('end', function () {
+        atRes.on('end', () => {
             res.redirect('/');
         });
     });
@@ -57,6 +57,6 @@ app.get('/callback', function (req, res) {
     request.end();
 });
 
-http.createServer(app).listen(app.get('port'), function(){
-  console.log("Express server listening on port " + app.get('port'));
+http.createServer(app).listen(app.get('port'), () => {
+  console.log("Listening on port " + app.get('port'));
 });
